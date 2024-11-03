@@ -11,7 +11,7 @@
 
 <h3 align="left">About me</h3>
 
-<p align="left">I am a beginner software engineer, at the stage of learning Java, and in the future I also plan to learn other programming languages. I studied for 4 years at the ITStep computer academy, studied a lot of interesting things there, learned a lot, a lot of topics, and she helped me decide on the direction. <br>-📚Completed the ITStep junior academy course. </p>
+<p align="left">I am a beginner software engineer, at the stage of learning Java, and in the future I also plan to learn other programming languages. I studied for 4 years at the ITStep computer academy, studied a lot of interesting things there, learned a lot, a lot of topics, and she helped me decide on the direction.<br>  <br>-📚Completed the ITStep junior academy course. </p>
 
 
 ###
